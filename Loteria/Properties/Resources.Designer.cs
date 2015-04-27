@@ -63,9 +63,9 @@ namespace Loteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ImgBonoLoto {
+        internal static System.Drawing.Bitmap Aleatorio {
             get {
-                object obj = ResourceManager.GetObject("ImgBonoLoto", resourceCulture);
+                object obj = ResourceManager.GetObject("Aleatorio", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Loteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ImgLaPrimitiva {
+        internal static System.Drawing.Bitmap BonoLoto {
             get {
-                object obj = ResourceManager.GetObject("ImgLaPrimitiva", resourceCulture);
+                object obj = ResourceManager.GetObject("BonoLoto", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Loteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ImgLaQuiniela {
+        internal static System.Drawing.Bitmap Cobrar {
             get {
-                object obj = ResourceManager.GetObject("ImgLaQuiniela", resourceCulture);
+                object obj = ResourceManager.GetObject("Cobrar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Loteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ImgLoteriaNacional {
+        internal static System.Drawing.Bitmap Comprobar {
             get {
-                object obj = ResourceManager.GetObject("ImgLoteriaNacional", resourceCulture);
+                object obj = ResourceManager.GetObject("Comprobar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,69 @@ namespace Loteria.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ImgONCE {
+        internal static System.Drawing.Bitmap ImgAgregarApuesta {
             get {
-                object obj = ResourceManager.GetObject("ImgONCE", resourceCulture);
+                object obj = ResourceManager.GetObject("ImgAgregarApuesta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Jugar {
+            get {
+                object obj = ResourceManager.GetObject("Jugar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LaPrimitiva {
+            get {
+                object obj = ResourceManager.GetObject("LaPrimitiva", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LaQuiniela {
+            get {
+                object obj = ResourceManager.GetObject("LaQuiniela", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Lector {
+            get {
+                object obj = ResourceManager.GetObject("Lector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LoteriaNacional {
+            get {
+                object obj = ResourceManager.GetObject("LoteriaNacional", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _Marcar {
+            get {
+                object obj = ResourceManager.GetObject("Marcar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +196,36 @@ namespace Loteria.Properties {
         internal static System.Drawing.Bitmap MenuVolver {
             get {
                 object obj = ResourceManager.GetObject("MenuVolver", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Nuevo {
+            get {
+                object obj = ResourceManager.GetObject("Nuevo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ONCE {
+            get {
+                object obj = ResourceManager.GetObject("ONCE", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Pagar {
+            get {
+                object obj = ResourceManager.GetObject("Pagar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

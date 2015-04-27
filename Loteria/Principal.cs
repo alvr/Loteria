@@ -7,8 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-using Loteria.Sorteos;
-
 namespace Loteria
 {
     public partial class Principal : Form
@@ -18,34 +16,19 @@ namespace Loteria
             InitializeComponent();
         }
 
-        private void ImgLoteriaNacional_Click(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
         {
-            LoteriaNacional ln = new LoteriaNacional();
-            ln.Show();
+            Jugar j = new Jugar();
+            j.Show();
+            this.Close();
         }
 
-        private void ImgLaPrimitiva_Click(object sender, EventArgs e)
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
-            Primitiva p = new Primitiva();
-            p.Show();
+            Comprobar c = new Comprobar();
+            c.Show();
+            this.Close();
         }
 
-        private void ImgBonoLoto_Click(object sender, EventArgs e)
-        {
-            BonoLoto bl = new BonoLoto();
-            bl.Show();
-        }
-
-        private void ImgLaQuiniela_Click(object sender, EventArgs e)
-        {
-            Quiniela q = new Quiniela();
-            q.Show();
-        }
-
-        private void ImgONCE_Click(object sender, EventArgs e)
-        {
-            ONCE once = new ONCE();
-            once.Show();
-        }
     }
 }

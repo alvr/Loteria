@@ -118,20 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ImgBonoLoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImgBonoLoto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Lector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lector.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ImgLaPrimitiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImgLaPrimitiva.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Pagar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pagar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ImgLaQuiniela" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImgLaQuiniela.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ImgLoteriaNacional" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImgLoteriaNacional.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ImgONCE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ImgONCE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="MenuVolver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MenuVolver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="MenuAyuda" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MenuAyuda.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,7 +133,37 @@
   <data name="MenuInicio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MenuInicio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="MenuVolver" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\MenuVolver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Cobrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cobrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ImgAgregarApuesta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ImgAgregarApuesta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Comprobar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Comprobar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Aleatorio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Aleatorio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jugar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jugar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BonoLoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BonoLoto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaPrimitiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LaPrimitiva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LaQuiniela" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LaQuiniela.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoteriaNacional" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LoteriaNacional.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ONCE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ONCE.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Marcar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Marcar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
